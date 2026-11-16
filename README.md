@@ -1,6 +1,6 @@
 # Court Atlas｜籃球鞋圖鑑
 
-AI 課程作業。用類似 LLM Wiki 的方式維護球鞋條目，並將 Wiki 發布為可搜尋的靜態網站。收錄 Kobe III、IV、IX、XI 的指定 Protro 版本。首頁與詳情頁皆顯示配色名稱，搜尋欄也可輸入配色查找鞋款。
+用類似 LLM Wiki 的方式維護球鞋條目，並將 Wiki 發布為可搜尋的靜態網站。收錄 Kobe III、IV、IX、XI 的指定 Protro 版本。首頁與詳情頁皆顯示配色名稱，搜尋欄也可輸入配色查找鞋款。
 
 ## 上傳並啟用 GitHub Pages
 
